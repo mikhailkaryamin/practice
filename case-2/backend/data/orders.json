@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a0013730-ded4-11ec-8b5a-93f7848abba7",
+    "user_id": 1,
+    "name": "Mikhail Karyamin",
+    "email": "mkaryamin@library.com",
+    "delivery_address": {
+      "street": "Mira",
+      "suite": "4",
+      "city": "Moscow",
+      "zipcode": "014034"
+    },
+    "billing_address": {
+      "street": "Mira",
+      "suite": "4",
+      "city": "Moscow",
+      "zipcode": "014034"
+    },
+    "phone": "79998882525",
+    "order": [
+      {
+        "id": 1,
+        "name": "Матильда",
+        "price": 26,
+        "quantity": 1
+      }
+    ],
+    "payment": "card",
+    "date": 1683976534051,
+    "total": 55
+  }
+]

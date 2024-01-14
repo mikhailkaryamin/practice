@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mikhail Karyamin",
+    "username": "MKaryamin",
+    "email": "mkaryamin@library.com",
+    "password": "test1",
+    "role": "admin",
+    "address": {
+      "street": "Mira",
+      "suite": "4",
+      "city": "Moscow",
+      "zipcode": "014034"
+    },
+    "phone": "79998882525"
+  },
+  {
+    "id": 2,
+    "name": "Ne Admin",
+    "username": "NAdmin",
+    "email": "nadmin@gmail.com",
+    "password": "test2",
+    "role": "user",
+    "address": {
+      "street": "Daleko",
+      "suite": "3A",
+      "city": "Voronezh",
+      "zipcode": "985432"
+    },
+    "phone": "78882525"
+  }
+]

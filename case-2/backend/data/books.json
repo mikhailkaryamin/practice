@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Матильда",
+    "author": "ROALD DAHL",
+    "category": "Книга для детей",
+    "publishing_house": "Радуга",
+    "price": 27,
+    "discount": 0,
+    "quantity": 22,
+    "availability_date": "2023-11-24",
+    "rating": 4,
+    "image": "matilda.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Мышление быстрое и медленное",
+    "author": "Daniel Kahneman",
+    "category": "Психология",
+    "publishing_house": "Камень",
+    "price": 55,
+    "discount": 0,
+    "quantity": 29,
+    "availability_date": "2023-08-17",
+    "rating": 5,
+    "image": "thinking_fast_and_slow.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Один из нас лжет",
+    "author": "Karen McManus",
+    "category": "Научная фантастика",
+    "publishing_house": "Старая книга",
+    "price": 51,
+    "discount": 25,
+    "quantity": 1,
+    "availability_date": "2023-01-29",
+    "rating": 5,
+    "image": "one_of_us_is_lying.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Приключения Гекльберри Финна",
+    "author": "Mark Twain",
+    "category": "Книга для детей",
+    "publishing_house": "Новая книга",
+    "price": 30,
+    "discount": 10,
+    "quantity": 15,
+    "availability_date": "2020-03-17",
+    "rating": 5,
+    "image": "huckleberry_finn.jpg"
+  }
+]

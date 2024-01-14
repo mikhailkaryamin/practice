@@ -1,0 +1,23 @@
+{
+    "isDataSent" : false, 
+
+    "Tasks": {
+            "1" : {
+                "creatable": false,
+                "id" : "1",
+                "title": "Планируемые"
+            }, 
+            "2" : {
+                "creatable": false,
+                "id" : "2",
+                "title": "В работе"
+            }, 
+            "3" : {
+                "creatable": false,
+                "id" : "3",
+                "title": "Завершенные"
+            }
+
+    }
+
+}
